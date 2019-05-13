@@ -1,0 +1,5 @@
+Integer.toBinaryString():
+
+example: 
+int n=439;
+String bi=(Integer.toBinaryString(n));

@@ -1,0 +1,8 @@
+Java for each (enhanced for loop)
+
+Example:
+String[] elements = {"a", "b", "c", "d"};   
+for (String s: elements) 
+{           
+    System.out.println(s); 
+}
